@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.page-item {
+    margin: 10px;
+    padding: 10px;
+    background: lightyellow;
+    list-style-type: none;
+    border: none;
+}
+.page-item:hover {
+    background: none;
+}
+a.page-link {
+    text-decoration: none;
+    color: black;
+    border: none;
+    
+}
